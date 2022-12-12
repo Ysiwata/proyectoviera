@@ -9,7 +9,7 @@
 body{
     width: auto;
     height: auto;
-    background-image: url("./Imagenes/istock.jpg");
+    background-image: url("../Imagenes/istock.jpg");
     background-position: center;
     background-size: cover;
 	background-repeat: no-repeat;
